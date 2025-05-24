@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+pydantic
+python-multipart
+ffmpeg-python
+speechrecognition
+pydub
