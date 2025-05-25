@@ -1,4 +1,4 @@
-# MindMate 🧠💬
+# MindMate 
 
 An emotionally intelligent chatbot that offers dynamic, responsive mental health support by combining sentiment analysis, natural language processing, and mental health models.
 
